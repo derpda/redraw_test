@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RedrawTest</string>
+    <string name="move_button">Move!</string>
+</resources>
